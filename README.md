@@ -49,8 +49,8 @@ SPA-приложение для просмотра списка чатов по�
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/your-username/matrix-chat-viewer.git
-   cd matrix-chat-viewer
+   git clone https://github.com/Helarman/matrix-chat-spa.git
+   cd matrix-chat-spa
     ```
 2. Установите зависимости:
 ```
